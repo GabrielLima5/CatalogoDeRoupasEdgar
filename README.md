@@ -1,2 +1,7 @@
 # catalogo-roupas-edgar
-Um simples catálogo de itens de moda que fiz utilizando HTML5 e CSS3.
+
+Um simples e responsivo catálogo de itens de moda desenvolvido utilizando HTML5 e CSS3. Feito em collab com meu amigo <a href="https://github.com/JoaoEdgar">João Edgar</a>.
+
+Esse projeto me possibilitou treinar minhas habilidades em CSS (Display Flex e Responsividade com Media Queries).
+
+<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Cat%C3%A1logo%20Roupas%20Edgar.png">
